@@ -112,7 +112,6 @@ Con eso se armaron dos paquetes de trabajo:
 | WP1 · Continuidad de la plataforma | Balanceador redundante activo-pasivo | Continuidad operativa (2 → 4) | Quick win, 4 a 6 semanas |
 | WP2 · Rutas y datos regionales | Módulo de rutas en Medellín + BD particionada por región | Planeación de rutas (2 → 4) y seguimiento en tiempo real (3 → 4) | Largo plazo |
 
-Esta tabla de brechas, esfuerzo, impacto y riesgos es el insumo del Plan de Implementación del Taller 9.
 
 ## Boceto inicial del modelo
 
