@@ -119,12 +119,14 @@ Con eso se armaron dos paquetes de trabajo:
 
 Extiende el C2 del Taller 3 añadiendo un Motor de Rutas propio para Medellín, réplica del de Bogotá, para que la región deje de depender de un único punto de procesamiento.
 
+<img width="1602" height="763" alt="to-be-aplicaciones-borrador drawio" src="https://github.com/user-attachments/assets/ba5782bf-e897-40f1-910c-4355b3f2ef10" />
 
 
 ### Diagrama 2. TO-BE de Tecnología
 
 Extiende el mapa de infraestructura del Taller 4: el balanceador pasa a ser redundante (activo-pasivo), la base de datos se particiona por región y Medellín gana su propio módulo de rutas.
 
+<img width="669" height="792" alt="to-be-tecnologia-borrador drawio" src="https://github.com/user-attachments/assets/7061563e-2706-4e19-b429-80422987da3b" />
 
 
 ## Tareas definidas para complementar el taller
