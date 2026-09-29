@@ -135,8 +135,8 @@ Anote las responsabilidades acordadas entre los miembros del equipo para complet
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado TO-BE de Aplicaciones | Brayan Presiga | 10/08 |
-| Modelado TO-BE de Tecnología | Jorge Alarcon | 11/08 |
+| Modelado TO-BE de Aplicaciones | Jorge Alarcon | 10/08 |
+| Modelado TO-BE de Tecnología | Brayan Presiga | 11/08 |
 | Redacción de notas.md | Julián Aguirre | 12/08 |
 
 ---
